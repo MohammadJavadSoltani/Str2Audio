@@ -1,0 +1,6 @@
+{
+  "name": "Why Here - Earth Observation Studio",
+  "description": "AI-powered Earth observation video storytelling studio: bilingual Persian and English transcript extraction, cinematic YouTube script paraphrasing, studio-grade natural voice narration, evolving procedural soundscapes, interactive historical trend timeline, and high-resolution vector graph exports with secure cloud storage.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

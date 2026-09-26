@@ -1,0 +1,200 @@
+[
+  {
+    "id": "WH-RICHAT-GLOBAL",
+    "title": "Why is There a 40-Kilometer Cosmic Bullseye in the Sahara?",
+    "titleFa": "راز نشانه کیهانی ۴۰ کیلومتری در قلب صحرای بزرگ آفریقا",
+    "channel": "Why Here",
+    "category": "Global Geological Anomaly",
+    "location": {
+      "name": "The Richat Structure (Eye of the Sahara)",
+      "country": "Mauritania, West Africa",
+      "coordinates": "21.1269° N, 11.4016° W",
+      "elevation": "485 m a.s.l"
+    },
+    "createdAt": "2026-09-24T12:00:00Z",
+    "lastModified": "2026-09-25T16:00:00Z",
+    "status": "Verified Satellite Observation",
+    "vaultHash": "sha256-4b8c9d10e5f2a1b7c3d8e9f0a2b4c6d8e0f1a3b5c7d9e1f3a5b7c9d1e3f5a7b9",
+    "originalTranscript": "Astronauts aboard early Gemini and Apollo missions noticed a massive circular formation in the Sahara desert resembling a celestial eye. Spanning over forty kilometers, early hypotheses considered it a meteorite impact site. Modern satellite radar and ASTER multispectral radiometer analysis proved it is a Cretaceous alkaline magmatic intrusion that domed upward and eroded over 100 million years, creating concentric rings of resistant quartzite.",
+    "originalTranscriptFa": "فضانوردان در ماموریت‌های اولیه فضایی متوجه ساختار حلقوی عظیمی در صحرای موریتانی شدند که به چشم صحرا معروف شد. با قطر بیش از چهل کیلومتر، در ابتدا تصور می‌شد دهانه برخورد شهاب‌سنگ باستانی است. اما بررسی‌های راداری ماهواره‌ای و تصویربرداری چندطیفی آستر نشان داد این ساختار حاصل یک بالاآمدگی ماگمایی دوره کرتاسه بوده که با گذشت صد میلیون سال فرسایش، حلقه‌های متحدالمرکز کوارتزیت مقاوم را تشکیل داده است.",
+    "paraphrasedScriptEn": "Look closely at this patch of the western Sahara. From four hundred kilometers in orbit, where the desert appears as an endless, featureless sea of sand, this colossal forty-kilometer bullseye stares straight back out into the cosmos. For decades, researchers wondered: was this an ancient extraterrestrial impact, or the remnants of a forgotten continental caldera? In this episode of Why Here, we analyze decades of satellite synthetic aperture radar and multispectral radiometry to answer the question: why did one hundred million years of Cretaceous geology produce Earth's most hypnotic orbital anomaly right here?",
+    "paraphrasedScriptFa": "به این نقطه در غرب صحرای بزرگ آفریقا دقیق نگاه کنید. از ارتفاع چهارصد کیلومتری در مدار زمین، درست جایی که کویر شبیه اقیانوسی بی‌انتها از ماسه به نظر می‌رسد، یک نشانه حلقوی ۴۰ کیلومتری مستقیم به فضا خیره شده است. دهه‌ها این پرسش مطرح بود: آیا اینجا محل برخورد یک شهاب‌سنگ باستانی است؟ در این اپیزود از 'چرا اینجا'، با بررسی رادارهای ماهواره‌ای لندست و سنتینل فاش می‌کنیم که چرا صد میلیون سال تحول زمین‌شناسی، این چشم کیهانی را پدید آورده است.",
+    "targetDurationSec": 90,
+    "voiceConfig": {
+      "voiceName": "Fenrir",
+      "gender": "male",
+      "tone": "Deep Cinematic Documentary",
+      "pacingRate": 1.0,
+      "studioFilter": true,
+      "audioDurationSec": 89.2
+    },
+    "soundscape": {
+      "preset": "Orbital Drift",
+      "volume": 0.24,
+      "autoDucking": true,
+      "active: true": true
+    },
+    "historicalTrends": [
+      { "year": 1965, "waterAreaKm2": 0, "salinityGPerL": 0, "ndviAnomaly": -0.42, "event": "Gemini 4 astronauts McDivitt and White identify the formation from orbit" },
+      { "year": 1982, "waterAreaKm2": 0, "salinityGPerL": 0, "ndviAnomaly": -0.45, "event": "Meteorite impact theory disproven by petrological quartz analysis" },
+      { "year": 2000, "waterAreaKm2": 0, "salinityGPerL": 0, "ndviAnomaly": -0.40, "event": "NASA Terra ASTER infrared sensor reveals thermal ring differentiation" },
+      { "year": 2015, "waterAreaKm2": 0, "salinityGPerL": 0, "ndviAnomaly": -0.48, "event": "Sentinel-1 Synthetic Aperture Radar maps subsurface quartzite dikes" },
+      { "year": 2026, "waterAreaKm2": 0, "salinityGPerL": 0, "ndviAnomaly": -0.50, "event": "Global orbital geological benchmark status codified" }
+    ],
+    "storyboardFrames": [
+      {
+        "timecode": "00:00 - 00:20",
+        "title": "ISS Orbital Descent Pass",
+        "prompt": "International Space Station orbital viewpoint looking down upon the Sahara desert, revealing the massive 40-kilometer blue-grey concentric bullseye rings amidst orange dunes.",
+        "type": "Orbital Multispectral",
+        "visualOverlay": "ALTITUDE: 412 KM | DIAMETER: 40 KM | SENSOR: OPTICAL SATELLITE"
+      },
+      {
+        "timecode": "00:20 - 00:50",
+        "title": "Thermal Infrared Ring Scan",
+        "prompt": "Thermal infrared false-color satellite raster scan highlighting contrasting hydrothermal ring layers of quartzite and carbonatite.",
+        "type": "Infrared False-Color",
+        "visualOverlay": "ASTER BAND 12/10/8 | THERMAL INERTIA CONTRAST"
+      },
+      {
+        "timecode": "00:50 - 00:90",
+        "title": "Cretaceous Magma Plume Cross-Section",
+        "prompt": "Cinematic 3D geological cutaway showing underground magmatic bubble uplifting the continental crust under Africa 100 million years ago.",
+        "type": "3D Topographic CAD",
+        "visualOverlay": "CRETACEOUS PLUME DEPTH: 12 KM | WHY HERE INVESTIGATION"
+      }
+    ]
+  },
+  {
+    "id": "WH-ARAL-GLOBAL",
+    "title": "Why the World's 4th Largest Inland Sea Vanished in a Single Generation",
+    "titleFa": "چرا چهارمین دریای بزرگ محصور در خشکی جهان در یک نسل ناپدید شد؟",
+    "channel": "Why Here",
+    "category": "Global Hydrological Disappearance",
+    "location": {
+      "name": "The Aral Sea (Aral Desert)",
+      "country": "Kazakhstan / Uzbekistan, Central Asia",
+      "coordinates": "45.0000° N, 60.0000° E",
+      "elevation": "31 m a.s.l"
+    },
+    "createdAt": "2026-09-23T10:00:00Z",
+    "lastModified": "2026-09-25T14:30:00Z",
+    "status": "Verified Satellite Observation",
+    "vaultHash": "sha256-8a7b6c5d4e3f2a1b0c9d8e7f6a5b4c3d2e1f0a9b8c7d6e5f4a3b2c1d0e9f8a7b",
+    "originalTranscript": "The Aral Sea was once 68,000 square kilometers in surface area, fed by the powerful Amu Darya and Syr Darya rivers. In the 1960s, a massive Soviet diversion project redirected these rivers through 20,000 miles of unlined canals to irrigate cotton fields in the desert. Within forty years, over ninety percent of the sea evaporated, leaving behind the Aralkum Desert, rusted fishing trawlers sitting on sand dunes, and severe toxic salt dust storms visible on NASA satellite passes.",
+    "originalTranscriptFa": "دریای آرال روزگاری با مساحت ۶۸ هزار کیلومتر مربع، چهارمین دریاچه بزرگ جهان بود که از دو رودخانه خروشان آمودریا و سیردریا تغذیه می‌شد. در دهه ۱۹۶۰ میلادی، با حفر کانال‌های بدون عایق برای کشت پنبه در شوروی، آب رودخانه‌ها منحرف شد. ظرف چهار دهه، بیش از نود درصد آب آرال خشک شد و بستری از نمک به نام کویر آرال‌کوم و لاشه کشتی‌های به گل نشسته در میان شن‌ها باقی ماند.",
+    "paraphrasedScriptEn": "Look closely at this patch of Central Asia. Sixty years ago, commercial fishing fleets sailed across a body of freshwater three times the size of Massachusetts. Today, Landsat satellites record a landscape transformed into a toxic white salt basin called the Aralkum Desert, with rusted ship hulls marooned miles from the nearest shoreline. Why here? How did the fourth largest inland sea on planet Earth vanish in the span of a single human generation? In this Why Here investigation, we trace 40 years of orbital time-lapse photography and agricultural river diversions to reveal the anatomy of modern history's greatest hydrological collapse.",
+    "paraphrasedScriptFa": "به این نقطه در آسیای میانه نگاه کنید. شصت سال پیش، ناوگان‌های بزرگ ماهیگیری در آبی که سه برابر مساحت کشور کویت بود کشتیرانی می‌کردند. اما امروز، ماهواره‌های لندست صحرایی سمی و سفید از نمک را نشان می‌دهند با لاشه کشتی‌هایی که کیلومترها دورتر از خط ساحل به گل نشسته‌اند. چرا اینجا؟ چگونه چهارمین پهنه آبی بزرگ جهان در کمتر از چهار دهه خشکید؟ در این بررسی ماهواره‌ای از 'چرا اینجا'، با واکاوی تایم‌لاین‌های فضایی و مهندسی کانال‌های آب، کالبدشکافی این فاجعه را به تصویر می‌کشیم.",
+    "targetDurationSec": 90,
+    "voiceConfig": {
+      "voiceName": "Zephyr",
+      "gender": "female",
+      "tone": "Investigative Clarity",
+      "pacingRate": 1.05,
+      "studioFilter": true,
+      "audioDurationSec": 88.0
+    },
+    "soundscape": {
+      "preset": "Desolate Expanse",
+      "volume": 0.22,
+      "autoDucking": true,
+      "active: true": true
+    },
+    "historicalTrends": [
+      { "year": 1960, "waterAreaKm2": 68000, "salinityGPerL": 10, "ndviAnomaly": 0.55, "event": "Full natural inland sea volume; bustling fisheries" },
+      { "year": 1975, "waterAreaKm2": 53000, "salinityGPerL": 14, "ndviAnomaly": 0.40, "event": "Karakum Canal diversion expands cotton agriculture" },
+      { "year": 1989, "waterAreaKm2": 37000, "salinityGPerL": 30, "ndviAnomaly": 0.22, "event": "Aral splits into Northern and Southern separate water bodies" },
+      { "year": 2003, "waterAreaKm2": 17500, "salinityGPerL": 75, "ndviAnomaly": 0.05, "event": "Kokaral Dam constructed to rescue North Aral Sea" },
+      { "year": 2014, "waterAreaKm2": 7200, "salinityGPerL": 150, "ndviAnomaly": -0.25, "event": "Eastern basin of South Aral completely dries for the first time in 600 years" },
+      { "year": 2026, "waterAreaKm2": 6100, "salinityGPerL": 190, "ndviAnomaly": -0.32, "event": "Active international satellite environmental monitoring and salt dust mitigation" }
+    ],
+    "storyboardFrames": [
+      {
+        "timecode": "00:00 - 00:20",
+        "title": "Satellite Time-Lapse 1984 vs 2026",
+        "prompt": "Side-by-side satellite multispectral comparison showing vast deep blue 1984 Aral Sea receding into dried cracked white salt lake bed in 2026.",
+        "type": "Satellite Multispectral",
+        "visualOverlay": "SURFACE WATER LOSS: -91.2% | SENSOR: LANDSAT TIME-LAPSE"
+      },
+      {
+        "timecode": "00:20 - 00:50",
+        "title": "Ship Graveyard Drone Flyover",
+        "prompt": "Cinematic low-angle telephoto drone sweep past towering rusted steel ships sitting upright in barren desert sand dunes under harsh desert sunlight.",
+        "type": "Cinematic Landscape",
+        "visualOverlay": "ARALKUM DESERT | COORDINATES: 45.0000° N, 60.0000° E"
+      },
+      {
+        "timecode": "00:50 - 00:90",
+        "title": "Hydrological River Divergence 3D Map",
+        "prompt": "3D topographic map showing glowing blue lines of Amu Darya and Syr Darya being siphoned off into thousands of agricultural irrigation channels.",
+        "type": "3D Topographic CAD",
+        "visualOverlay": "DIVERSION VOLUME: 60 KM³/YEAR | WHY HERE INVESTIGATION"
+      }
+    ]
+  },
+  {
+    "id": "WH-AMAZON-GLOBAL",
+    "title": "Why the World's Atmosphere Hinges on the Amazon 'Flying Rivers'",
+    "titleFa": "چرا تعادل آب‌وهوای کره زمین به رودخانه‌های پرنده آمازون وابسته است؟",
+    "channel": "Why Here",
+    "category": "Atmospheric Hydrology & Deforestation",
+    "location": {
+      "name": "Amazon Basin & Deforestation Arc",
+      "country": "Rondônia & Pará, Brazil",
+      "coordinates": "10.0000° S, 62.0000° W",
+      "elevation": "120 m a.s.l"
+    },
+    "createdAt": "2026-09-22T08:00:00Z",
+    "lastModified": "2026-09-25T15:00:00Z",
+    "status": "Verified Satellite Observation",
+    "vaultHash": "sha256-3c2b1a0f9e8d7c6b5a4f3e2d1c0b9a8f7e6d5c4b3a2f1e0d9c8b7a6f5e4d3c2b",
+    "originalTranscript": "Satellite atmospheric sounders and microwave radars track twenty billion metric tons of water vapor pumped daily into the sky by the Amazon rainforest through evapotranspiration—an amount greater than the daily discharge of the Amazon River into the Atlantic Ocean. These airborne moisture corridors, known as flying rivers, collide with the Andes mountain barrier and irrigate South America's agricultural heartland. Synthetic Aperture Radar surveillance maps the accelerating fishbone patterns of logging roads breaking this atmospheric engine.",
+    "originalTranscriptFa": "رادارهای ماهواره‌ای جوی نشان می‌دهند روزانه بیست میلیارد تن بخار آب توسط جنگل‌های آمازون از طریق تعریق به آسمان پمپ می‌شود که حجمی فراتر از ریزش رودخانه آمازون به اقیانوس اطلس است. این رودخانه‌های پرنده جوی پس از برخورد به رشته‌کوه آند، مزارع آمریکای جنوبی را سیراب می‌کنند. تصاویر راداری ماهواره‌ها، شبکه‌های استخوان ماهی جاده‌های قطع درختان را ثبت می‌کنند که این موتور جوی را به خطر انداخته است.",
+    "paraphrasedScriptEn": "When you look at this patch of the South American canopy from orbit, you are not just looking at trees—you are looking at a planetary pump. Every single day, satellite moisture sensors detect twenty billion tons of water rising into the upper troposphere. That is more water than the Amazon River itself carries into the ocean. These are Earth's 'flying rivers.' Why here? Because this precise continental alignment between equatorial rainforest and the towering wall of the Andes mountain range generates the weather system that feeds half of South America. In this Why Here investigation, we track satellite radar telemetry revealing how geometric logging grids are pushing this atmospheric machine toward an irreversible tipping point.",
+    "paraphrasedScriptFa": "وقتی از مدار زمین به این پهنه از جنگل‌های آمازون می‌نگرید، صرفاً درخت نمی‌بینید؛ شما در حال مشاهده یک پمپ سیاره‌ای عظیم هستید. هر روز، ماهواره‌های سنجش رطوبت ناسا بیست میلیارد تن بخار آب را در حال صعود به لایه‌های بالای جو رصد می‌کنند؛ این پدیده 'رودخانه‌های پرنده' نام دارد. چرا اینجا؟ زیرا تلاقی جنگل‌های استوایی با دیواره کوه‌های آند، سامانه بارشی حیات‌بخشی می‌سازد. در این اپیزود از 'چرا اینجا'، با رادارهای سنتینل نشان می‌دهیم چگونه خطوط تخریب جنگل، این موتور اقلیمی جهان را تهدید می‌کند.",
+    "targetDurationSec": 90,
+    "voiceConfig": {
+      "voiceName": "Puck",
+      "gender": "male",
+      "tone": "Dynamic Storyteller",
+      "pacingRate": 1.02,
+      "studioFilter": true,
+      "audioDurationSec": 87.5
+    },
+    "soundscape": {
+      "preset": "Cyber Reconnaissance",
+      "volume": 0.25,
+      "autoDucking": true,
+      "active: true": true
+    },
+    "historicalTrends": [
+      { "year": 1985, "waterAreaKm2": 20000, "salinityGPerL": 0, "ndviAnomaly": 0.88, "event": "Pristine canopy expanse; intact atmospheric moisture conveyor" },
+      { "year": 1998, "waterAreaKm2": 18200, "salinityGPerL": 0, "ndviAnomaly": 0.72, "event": "Fishbone geometric road network penetrates Rondônia state" },
+      { "year": 2012, "waterAreaKm2": 15800, "salinityGPerL": 0, "ndviAnomaly": 0.58, "event": "High-resolution satellite monitoring slows primary forest clearcutting" },
+      { "year": 2026, "waterAreaKm2": 13900, "salinityGPerL": 0, "ndviAnomaly": 0.41, "event": "Active orbital radar tracking of Amazon rainforest hydrological tipping point" }
+    ],
+    "storyboardFrames": [
+      {
+        "timecode": "00:00 - 00:20",
+        "title": "Atmospheric Moisture Sounder Visualization",
+        "prompt": "Satellite infrared water vapor satellite view over South America showing massive glowing blue atmospheric river corridor swirling from Amazon basin toward the Andes mountains.",
+        "type": "Satellite Multispectral",
+        "visualOverlay": "MOISTURE FLUX: 20 BILLION TONS/DAY | GOES-16 SATELLITE"
+      },
+      {
+        "timecode": "00:20 - 00:50",
+        "title": "Fishbone Deforestation Radar Grid",
+        "prompt": "High-resolution synthetic aperture radar image showing geometric fishbone logging road scars cutting into the deep green Amazon canopy in Rondônia.",
+        "type": "Synthetic Aperture Radar",
+        "visualOverlay": "SAR COHERENCE: LOGGING CORRIDORS DETECTED"
+      },
+      {
+        "timecode": "00:50 - 00:90",
+        "title": "Andes Barrier 3D Topographic Collision",
+        "prompt": "3D digital elevation model showing glowing clouds striking the snow-capped Andes mountains and deflecting southward across Brazil and Argentina.",
+        "type": "3D Topographic CAD",
+        "visualOverlay": "ANDES ELEVATION: 6,000M | WHY HERE INVESTIGATION"
+      }
+    ]
+  }
+]
